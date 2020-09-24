@@ -1,0 +1,13 @@
+.Card img{
+    height: 400px;
+}
+.card{
+    border: none;
+}
+.card h5{
+    font-weight: bold;
+    color: orange;
+}
+.Card p{
+    color: gray;
+}

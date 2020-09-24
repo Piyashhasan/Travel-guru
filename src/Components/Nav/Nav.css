@@ -1,0 +1,23 @@
+.Nav img{
+    width: 160px;
+    height: 80px;
+    padding: 15px;
+}
+.Nav li{
+    margin-left: 25px;
+    padding: 10px;
+}
+.nav_link:hover{
+    color: orange!important;
+}
+.login-button{
+    color:black;
+    padding: 3px 15px;
+    border: none;
+    border-radius:5px;
+}
+
+.menu-active{
+    font-weight:bold;
+    border-bottom: 1px solid orange;
+}
